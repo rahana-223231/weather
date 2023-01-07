@@ -1,0 +1,24 @@
+body {
+    background-image: url(./images/stormseeker-V_rBt7kn71E-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+@media(max-width:500px){
+    body {  
+        background-image: url(./images/stormseeker-V_rBt7kn71E-unsplash.jpg);
+        background-repeat: no-repeat;
+        background-size: auto;
+      
+    }
+    #secondPart{
+        margin-top: -200px;
+        margin-left: 130px;
+
+    }
+    #firstPart{
+        margin-left: 20px;
+    }
+
+
+
+}
